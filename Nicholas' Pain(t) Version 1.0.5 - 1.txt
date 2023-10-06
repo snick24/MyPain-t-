@@ -1,0 +1,19 @@
+Nicholas' Pain(t) Version 1.0.5 - 10/06/2023
+New features: 
+*Includes an Autosave feature that every 30 seconds will save the current project
+you are working on. There is a toggle button to have this timer displayed or hidden
+*There is a timer that tracks how long the user has had the program open
+*You are still able to save in multiple format of images and it will now provide a warning on the loss of data
+Known Bugs
+*The elapsed timer and Autosave timer are offest by a second
+Expected next sprint:
+* allow you to rotate (90/180/270) an image, as well as mirror [as in, do a horizontal and vertical flip (so, left becomes right / top becomes bottom).]
+* allow the rotate of either a selection (a chunk) or for your whole canvas.
+* have icons for drawing tools; preferred is all buttons, etc.
+* notifications (as in in the corner of window, from the OS); for autosave
+* have tool tips for your buttons that appear on hover.
+
+
+
+
+
