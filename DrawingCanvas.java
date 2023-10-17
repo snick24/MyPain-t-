@@ -5,6 +5,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
+import javafx.scene.transform.Rotate;
 
 import javafx.geometry.Rectangle2D;
 import javafx.scene.SnapshotParameters;
@@ -15,7 +16,14 @@ import javafx.scene.image.WritableImage;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
-
+/**
+ * The `DrawingCanvas` class extends `Canvas` and provides a set of methods for drawing various shapes
+ * and performing actions on the canvas, including pencil drawing, erasing, drawing straight lines, squares, circles,
+ * half circles, polygons, taking snapshots, and undo/redo functionality.
+ * <p>
+ * This class allows you to create a drawing canvas with specified width and height, set various drawing options,
+ * change line width, line color, and more.
+ **/
 public class DrawingCanvas extends Canvas {
     private final GraphicsContext gc; // Graphics context for drawing on the canvas
     private double startX, startY;

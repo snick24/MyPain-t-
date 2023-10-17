@@ -17,6 +17,12 @@ import java.util.Optional;
 
 public class saveImageAs {
     // Method for saving the content of a Canvas as an image with a specified file format
+    /**
+     * Saves the visual content of a JavaFX Canvas to an image file with a specified format.
+     * By opening a file choser and allowing the user to pick where and what the user wants to save their image.
+     *
+     * @param canvas The JavaFX Canvas whose content the image is being saved as
+     **/
     public void saveImgAs(Canvas canvas) {
         FileChooser fileChooser = new FileChooser();
         fileChooser.setTitle("Save As"); // Set the title of the file chooser dialog

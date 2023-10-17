@@ -12,6 +12,15 @@ import java.io.IOException;
 
 public class saveImage {
     // Method for saving a Canvas content as an image to a specified file
+    /**
+     * The `saveImg` method allows you to save the visual content of a Canvas to a user-specified file format,
+     * with options to save as PNG, JPEG, or BMP formats.
+     * <p>
+     * It does so by creating a writeable image and saving a screenshot of the canvas to the file location
+     *
+     * @param canvas The JavaFX Canvas whose content you want to save as an image.
+     * @param imageFile The target file where the image will be saved.
+     **/
     public void saveImg(Canvas canvas, File imageFile) {
         if (canvas != null && imageFile != null) {
             int width = (int) canvas.getWidth(); // Get the width of the Canvas

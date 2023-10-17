@@ -9,6 +9,14 @@ import java.io.File;
 
 public class openImage {
     // Method for opening an image and displaying it on a canvas
+    /**
+     * Opens an image using a file chooser dialog and draws the user choosen image onto the
+     * canvas.
+     *
+     * @param primaryStage The primary stage of the JavaFX application.
+     * @param canvas      The canvas where the opened image will be displayed.
+     * @return The File object representing the selected image file.
+     */
     public File openImg(Stage primaryStage, Canvas canvas) {
         FileChooser fileChooser = new FileChooser();
         fileChooser.getExtensionFilters().addAll(
