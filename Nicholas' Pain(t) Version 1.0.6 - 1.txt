@@ -1,0 +1,9 @@
+Nicholas' Pain(t) Version 1.0.6 - 10/16/2023
+New features: 
+*Allows for the rotation of Images from a user specified degree
+*Icons are now implemented for images 
+*There are now notifactions to show whenever the application autosaves
+*There are now tool tips that describing what the button will do when clicked if hovered over
+Known Bugs
+*Less of a bug but the notifaction for auto-saving is very annoying and will be ironed out
+
