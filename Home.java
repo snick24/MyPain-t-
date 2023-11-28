@@ -20,36 +20,38 @@ import javafx.util.Duration;
 import java.io.File;
 import java.util.Optional;
 
-
+/**
+ * The `Home` class serves as the main application for a simple painting program. It provides a graphical user interface
+ * for drawing various shapes, saving and opening images, and managing the drawing canvas.
+ *<p>
+ * The program supports features such as drawing, erasing, taking snapshots, undo/redo functionality, and more. Users can
+ * select different drawing tools and configure line width and color.
+ */
 public class Home extends Application {
     private File openImgFile;
     private final openImage imageOpener = new openImage();
     private final saveImage imageSaver = new saveImage();
     private final saveImageAs imageSaverAs = new saveImageAs();
     private DrawingCanvas drawingCanvas;
-    private int counter = 10;
+    private int counter = 30;
     private boolean issaved = false;
     private boolean isopen = false;
     private ToggleButton autoSaveToggleButton;
     private boolean isAutoSaveVisible = false;
     private Logger logger;
 
-
     /**
-     * The `Home` class serves as the main application for a simple painting program. It provides a graphical user interface
-     * for drawing various shapes, saving and opening images, and managing the drawing canvas.
-     *<p>
-     * The program supports features such as drawing, erasing, taking snapshots, undo/redo functionality, and more. Users can
-     * select different drawing tools and configure line width and color.
+     * Main method to launch the JavaFX application.
+     * @param args Command line arguments.
      */
-
     public static void main(String[] args) {
         launch(args);
     }
 
-
-
-
+    /**
+     * Overrides the start method from Application class to set up the GUI and functionalities.
+     * @param primaryStage The primary stage of the application.
+     */
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("Paint");
@@ -195,6 +197,12 @@ public class Home extends Application {
         halfbutton.setOnAction(event ->{
             logger.log(openImgFile +" Half-Circle Was Selected");
             drawingCanvas.halfcircle();
+        });
+
+        Button ellipbutton = new Button();
+        ellipbutton.setOnAction(event ->{
+            logger.log(openImgFile +" Ellipse was selected");
+            drawingCanvas.ellipse();
         });
 
         MenuItem Ellipse = new MenuItem("Ellipse");
@@ -394,7 +402,7 @@ public class Home extends Application {
         VBox vBox = new VBox(menuBar);
         VBox vbox1 = new VBox(colorPicker);
         vbox1.getChildren().addAll(timeOpenLabel, timerLabel);
-        sliderBox.getChildren().addAll(autoSaveToggleButton,autotimeOpenLabel, autotimerLabel,toolslabel,pencilbutton,eraserbutton,pointbutton,linebutton,textbutton,shapelabel,squarebutton ,circlebutton,recbutton,halfbutton, rotatebutton);
+        sliderBox.getChildren().addAll(autoSaveToggleButton,autotimeOpenLabel, autotimerLabel,toolslabel,pencilbutton,eraserbutton,pointbutton,linebutton,textbutton,shapelabel,squarebutton ,circlebutton,recbutton,halfbutton , ellipbutton, rotatebutton);
         vBox.setAlignment(Pos.CENTER);
         sliderBox.setAlignment(Pos.TOP_LEFT);
         vbox1.setAlignment(Pos.TOP_LEFT);
@@ -432,7 +440,10 @@ public class Home extends Application {
         primaryStage.show();
     }
 
-
+    /**
+     * Displays a confirmation dialog when attempting to close the application with unsaved changes.
+     * @param primaryStage The primary stage of the application.
+     */
     private void showSaveConfirmation(Stage primaryStage) {
         Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
         alert.setTitle("Save Confirmation");

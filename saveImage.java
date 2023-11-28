@@ -10,8 +10,12 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * The saveImage class provides a method to save the visual content of a JavaFX Canvas as an image file.
+ * It enables users to save the content of the Canvas to specified file formats like PNG, JPEG, or BMP.
+ */
 public class saveImage {
-    // Method for saving a Canvas content as an image to a specified file
+
     /**
      * The `saveImg` method allows you to save the visual content of a Canvas to a user-specified file format,
      * with options to save as PNG, JPEG, or BMP formats.

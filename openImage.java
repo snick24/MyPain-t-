@@ -7,15 +7,19 @@ import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import java.io.File;
 
+/**
+ * The openImage class provides a method to open and display image files on a canvas.
+ * It allows users to select an image file (PNG, JPG, JPEG, GIF, BMP) using a file dialog and display the selected image on the provided canvas.
+ */
 public class openImage {
-    // Method for opening an image and displaying it on a canvas
+
     /**
-     * Opens an image using a file chooser dialog and draws the user choosen image onto the
-     * canvas.
+     * Opens an image file dialog, allows the user to select an image, and displays it on the provided canvas.
      *
-     * @param primaryStage The primary stage of the JavaFX application.
-     * @param canvas      The canvas where the opened image will be displayed.
+     * @param primaryStage The primary stage/window of the application.
+     * @param canvas       The canvas where the selected image will be displayed.
      * @return The File object representing the selected image file.
+     * Returns null if no image file was selected.
      */
     public File openImg(Stage primaryStage, Canvas canvas) {
         FileChooser fileChooser = new FileChooser();

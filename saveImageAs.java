@@ -15,6 +15,10 @@ import java.io.File;
 import java.io.IOException;
 import java.util.Optional;
 
+/**
+ * The saveImageAs class provides functionality to save the visual content of a JavaFX Canvas as an image file
+ * while enabling the user to choose the file format and destination.
+ */
 public class saveImageAs {
     // Method for saving the content of a Canvas as an image with a specified file format
     /**
@@ -61,6 +65,12 @@ public class saveImageAs {
             }
         }
     }
+
+    /**
+     * Displays a warning dialog about potential data loss when changing image formats.
+     *
+     * @return True if the user confirms to proceed with saving, False otherwise.
+     **/
 
     private boolean showDataLossWarning() {
         // You can use an alert or dialog to display a warning message to the user.

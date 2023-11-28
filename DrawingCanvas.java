@@ -5,7 +5,6 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.paint.Color;
-import javafx.scene.transform.Rotate;
 
 import javafx.geometry.Rectangle2D;
 import javafx.scene.SnapshotParameters;
@@ -34,20 +33,33 @@ public class DrawingCanvas extends Canvas {
     private final Stack<Image> redoStack = new Stack<>();
 
 
-    // Constructor for the DrawingCanvas class, taking width and height as parameters
+    /**
+     * Constructs a DrawingCanvas with the specified width and height.
+     * Initializes the canvas, sets up the GraphicsContext for drawing,
+     * and sets the initial stroke color to black and line width.
+     *
+     * @param width  The width of the canvas.
+     * @param height The height of the canvas.
+     */
     public DrawingCanvas(double width, double height) {
         super(width, height); // Call the constructor of the Canvas class with specified width and height
         gc = getGraphicsContext2D(); // Get the GraphicsContext for drawing on the canvas
         gc.setStroke(ccolor); // Set the initial stroke color to black
         gc.setLineWidth(lwidth); // Set the initial line width
     }
-    //If the user wants to be able to click and drag
+    /**
+     * Method to allow the User to use their mouse without
+     * any tool interfering
+     */
     public void pointer() {
         setOnMousePressed(null);
         setOnMouseDragged(null);
         setOnMouseReleased(null);
     }
-    // Method to draw text on the canvas at the mouse click position
+    /**
+     * Method to draw text on the canvas at the mouse click position
+     * @param text The text to be drawn
+     */
     public void text(String text) {
         setOnMousePressed(event -> {
             double x = event.getX();
@@ -59,14 +71,19 @@ public class DrawingCanvas extends Canvas {
         setOnMouseReleased(null);
     }
 
-    // Method to enable pencil drawing
+    /**
+     * Method to enable pencil drawing
+     */
     public void pencil1() {
         setOnMousePressed(this::startDrawing); // When the mouse is pressed, call startDrawing method
         setOnMouseDragged(this::continueDrawing); // When the mouse is dragged, call continueDrawing method
         setOnMouseReleased(this::stopDrawing); // When the mouse is released, call stopDrawing method
     }
 
-    // Method to start drawing with the pencil
+    /**
+     * Method to start drawing with the pencil.
+     * @param event The MouseEvent triggering the start of drawing.
+     */
     private void startDrawing(MouseEvent event) {
         saveState();
         gc.beginPath(); // Begin a new path for drawing
@@ -74,25 +91,37 @@ public class DrawingCanvas extends Canvas {
         gc.stroke(); // Perform the stroke operation to start drawing
     }
 
-    // Method to continue drawing when the mouse is dragged
+    /**
+     * Continues drawing with the pencil tool while dragging the mouse.
+     * @param event The MouseEvent triggering the continuation of drawing.
+     */
     private void continueDrawing(MouseEvent event) {
         gc.lineTo(event.getX(), event.getY()); // Extend the path to the current mouse position
         gc.stroke(); // Perform the stroke operation to continue drawing
     }
 
-    // Method to stop drawing with the pencil
+
+    /**
+     * Stops drawing with the pencil tool when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing.
+     */
     private void stopDrawing(MouseEvent event) {
         gc.closePath(); // Close the path, ending the drawing
     }
 
-    // Method to enable eraser
+    /**
+     * Method to enable eraser
+     */
     public void eraser() {
         setOnMousePressed(this::startErasing); // When the mouse is pressed, call startDrawing method
         setOnMouseDragged(this::continueErasing); // When the mouse is dragged, call continueDrawing method
         setOnMouseReleased(this::stopErasing); // When the mouse is released, call stopDrawing method
     }
 
-    // Method to start erasing
+    /**
+     * Starts erasing when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of erasing.
+     */
     private void startErasing(MouseEvent event) {
         saveState();
         gc.setStroke(Color.WHITE);
@@ -101,19 +130,27 @@ public class DrawingCanvas extends Canvas {
         gc.stroke(); // Perform the stroke operation to start erasing
     }
 
-    // Method to continue erasing when the mouse is dragged
+    /**
+     * Continues erasing while dragging the mouse.
+     * @param event The MouseEvent triggering the continuation of erasing.
+     */
     private void continueErasing(MouseEvent event) {
         gc.lineTo(event.getX(), event.getY()); // Extend the eraser path to the current mouse position
         gc.stroke(); // Perform the stroke operation to continue erasing
     }
 
-    // Method to stop erasing when the mouse is released
+    /**
+     * Stops erasing when the mouse is released.
+     * @param event The MouseEvent triggering the end of erasing.
+     */
     private void stopErasing(MouseEvent event) {
         gc.closePath(); // Close the eraser path, ending erasing
         gc.setStroke(ccolor); // Reset the stroke color to the original color
     }
 
-    // Method to enable drawing straight lines
+    /**
+     * Method to enable drawing straight lines
+     */
     public void straightl() {
         saveState();
         setOnMousePressed(this::startDrawings); // When the mouse is pressed, call startDrawing method
@@ -121,13 +158,20 @@ public class DrawingCanvas extends Canvas {
         setOnMouseReleased(this::stopDrawings); // When the mouse is released, call stopDrawing method
     }
 
-    // Method to start drawing a straight line
+    /**
+     * Starts drawing a straight line when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing a straight line.
+     */
     private void startDrawings(MouseEvent event) {
         startX = event.getX();
         startY = event.getY();
     }
 
-    // Method to stop drawing a straight line
+    /**
+     * Stops drawing a straight line when the mouse is released
+     * and a line is created between the two points.
+     * @param event The MouseEvent triggering the start of drawing a straight line.
+     */
     private void stopDrawings(MouseEvent event) {
         gc.beginPath();
         gc.moveTo(startX, startY);
@@ -135,7 +179,9 @@ public class DrawingCanvas extends Canvas {
         gc.stroke();
     }
 
-    // Method to enable drawing squares
+    /**
+     * Method to enable drawing squares
+     */
     public void square() {
         setOnMousePressed(this::startSquareDrawing);
         setOnMouseDragged(null);
@@ -144,14 +190,23 @@ public class DrawingCanvas extends Canvas {
 
     private double squareStartX, squareStartY;
 
-    // Method to start drawing a square
+    /**
+     * Starts drawing a square when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing a square.
+     */
     private void startSquareDrawing(MouseEvent event) {
         saveState();
         squareStartX = event.getX();
         squareStartY = event.getY();
     }
 
-    // Method to continue drawing a square
+    /**
+     * Continues drawing a square while the mouse is being dragged.
+     * Calculates the size and position based on the initial click and the current mouse position.
+     * Draws a square using the calculated parameters.
+     *
+     * @param event The MouseEvent triggering the continuation of drawing a square.
+     */
     private void continueSquareDrawing(MouseEvent event) {
         double currentX = event.getX();
         double currentY = event.getY();
@@ -163,12 +218,17 @@ public class DrawingCanvas extends Canvas {
         gc.strokeRect(minX, minY, size, size);
     }
 
-    // Method to stop drawing a square
+    /**
+     * Stops drawing a square when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing a square.
+     */
     private void stopSquareDrawing(MouseEvent event) {
         continueSquareDrawing(event);
     }
 
-    // Method to enable drawing circles
+    /**
+     * Method to enable drawing circles
+     */
     public void circle() {
         setOnMousePressed(this::startCircleDrawing);
         setOnMouseDragged(null);
@@ -177,14 +237,23 @@ public class DrawingCanvas extends Canvas {
 
     private double circleStartX, circleStartY;
 
-    // Method to start drawing a circle
+    /**
+     * Starts drawing a circle when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing a circle.
+     */
     private void startCircleDrawing(MouseEvent event) {
         saveState();
         circleStartX = event.getX();
         circleStartY = event.getY();
     }
 
-    // Method to continue drawing a circle
+    /**
+     * Continues drawing a circle while the mouse is being dragged.
+     * Calculates the radius and position based on the initial click and the current mouse position.
+     * Draws a circle using the calculated parameters.
+     *
+     * @param event The MouseEvent triggering the continuation of drawing a circle.
+     */
     private void continueCircleDrawing(MouseEvent event) {
         double currentX = event.getX();
         double currentY = event.getY();
@@ -192,12 +261,17 @@ public class DrawingCanvas extends Canvas {
         gc.strokeOval(circleStartX - radius, circleStartY - radius, radius * 2, radius * 2);
     }
 
-    // Method to stop drawing a circle
+    /**
+     * Stops drawing a circle when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing a circle.
+     */
     private void stopCircleDrawing(MouseEvent event) {
         continueCircleDrawing(event);
     }
 
-    // Method to enable drawing half circles
+    /**
+     * Method to enable drawing half circles
+     */
     public void halfcircle() {
         setOnMousePressed(this::startHalfCircleDrawing);
         setOnMouseDragged(null);
@@ -206,14 +280,23 @@ public class DrawingCanvas extends Canvas {
 
     private double halfCircleStartX, halfCircleStartY;
 
-    // Method to start drawing a half circle
+    /**
+     * Starts drawing a half circle when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing a half circle.
+     */
     private void startHalfCircleDrawing(MouseEvent event) {
         saveState();
         halfCircleStartX = event.getX();
         halfCircleStartY = event.getY();
     }
 
-    // Method to continue drawing a half circle
+    /**
+     * Continues drawing a half circle while the mouse is being dragged.
+     * Calculates the radius and position based on the initial click and the current mouse position.
+     * Draws a half circle using the calculated parameters.
+     *
+     * @param event The MouseEvent triggering the continuation of drawing a half circle.
+     */
     private void continueHalfCircleDrawing(MouseEvent event) {
         double currentX = event.getX();
         double currentY = event.getY();
@@ -226,12 +309,17 @@ public class DrawingCanvas extends Canvas {
         gc.stroke();
     }
 
-    // Method to stop drawing a half circle
+    /**
+     * Stops drawing a half circle when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing a half circle.
+     */
     private void stopHalfCircleDrawing(MouseEvent event) {
         continueHalfCircleDrawing(event);
     }
 
-    // Method to enable drawing rectangles
+    /**
+     * Method to enable drawing rectangles
+     */
     public void rectangle() {
         setOnMousePressed(this::startRectangleDrawing);
         setOnMouseDragged(null);
@@ -240,14 +328,23 @@ public class DrawingCanvas extends Canvas {
 
     private double rectStartX, rectStartY;
 
-    // Method to start drawing a rectangle
+    /**
+     * Starts drawing a rectangle when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing a rectangle.
+     */
     private void startRectangleDrawing(MouseEvent event) {
         saveState();
         rectStartX = event.getX();
         rectStartY = event.getY();
     }
 
-    // Method to continue drawing a rectangle
+    /**
+     * Continues drawing a rectangle while the mouse is being dragged.
+     * Calculates the width and height based on the initial click and the current mouse position.
+     * Draws a rectangle using the calculated parameters.
+     *
+     * @param event The MouseEvent triggering the continuation of drawing a rectangle.
+     */
     private void continueRectangleDrawing(MouseEvent event) {
         double currentX = event.getX();
         double currentY = event.getY();
@@ -256,12 +353,17 @@ public class DrawingCanvas extends Canvas {
         gc.strokeRect(rectStartX, rectStartY, width, height);
     }
 
-    // Method to stop drawing a rectangle
+    /**
+     * Stops drawing a rectangle when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing a rectangle.
+     */
     private void stopRectangleDrawing(MouseEvent event) {
         continueRectangleDrawing(event);
     }
 
-    // Method to enable drawing ellipses
+    /**
+     * Method to enable drawing ellipses
+     */
     public void ellipse() {
         setOnMousePressed(this::startEllipseDrawing);
         setOnMouseDragged(null);
@@ -270,14 +372,23 @@ public class DrawingCanvas extends Canvas {
 
     private double ellipseStartX, ellipseStartY;
 
-    // Method to start drawing an ellipse
+    /**
+     * Starts drawing an ellipse when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing an ellipse.
+     */
     private void startEllipseDrawing(MouseEvent event) {
         saveState();
         ellipseStartX = event.getX();
         ellipseStartY = event.getY();
     }
 
-    // Method to continue drawing an ellipse
+    /**
+     * Continues drawing an ellipse while the mouse is being dragged.
+     * Calculates the width and height based on the initial click and the current mouse position.
+     * Draws an ellipse using the calculated parameters.
+     *
+     * @param event The MouseEvent triggering the continuation of drawing an ellipse.
+     */
     private void continueEllipseDrawing(MouseEvent event) {
         double currentX = event.getX();
         double currentY = event.getY();
@@ -286,20 +397,24 @@ public class DrawingCanvas extends Canvas {
         gc.strokeOval(ellipseStartX, ellipseStartY, width, height);
     }
 
-    // Method to stop drawing an ellipse
+    /**
+     * Stops drawing an ellipse when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing an ellipse.
+     */
     private void stopEllipseDrawing(MouseEvent event) {
         continueEllipseDrawing(event);
     }
 
     private final List<Double> polygonVertices = new ArrayList<>();
-    private int sides;
 
-    // Method to enable drawing polygons with the specified number of sides
+    /**
+     * Enables drawing polygons with the specified number of sides.
+     * @param sides The number of sides for the polygon to be drawn.
+     */
     public void polygon(int sides) {
         setOnMousePressed(this::startPolygonDrawing);
         setOnMouseDragged(this::continuePolygonDrawing);
         setOnMouseReleased(this::stopPolygonDrawing);
-        this.sides = sides;
     }
 
     // Method to start drawing a polygon
@@ -310,7 +425,10 @@ public class DrawingCanvas extends Canvas {
         polygonVertices.add(event.getY());
     }
 
-    // Method to continue drawing a polygon
+    /**
+     * Starts drawing a polygon when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of drawing a polygon.
+     */
     private void continuePolygonDrawing(MouseEvent event) {
         if (polygonVertices.size() < 6) {
             polygonVertices.add(event.getX());
@@ -318,7 +436,10 @@ public class DrawingCanvas extends Canvas {
         }
     }
 
-    // Method to stop drawing a polygon
+    /**
+     * Stops drawing a polygon when the mouse is released.
+     * @param event The MouseEvent triggering the end of drawing a polygon.
+     */
     private void stopPolygonDrawing(MouseEvent event) {
         if (polygonVertices.size() >= 6) {
             drawPolygon(polygonVertices);
@@ -326,7 +447,12 @@ public class DrawingCanvas extends Canvas {
         }
     }
 
-    // Method to draw a polygon based on the specified vertices
+    /**
+     * Draws a polygon based on the specified vertices on the canvas.
+     * The polygon is drawn if it contains enough vertices (at least 3 sets of x-y coordinates).
+     *
+     * @param vertices A list of vertices representing the x-y coordinates of the polygon's points.
+     */
     private void drawPolygon(List<Double> vertices) {
         if (vertices.size() >= 4) {
             gc.beginPath();
@@ -341,21 +467,29 @@ public class DrawingCanvas extends Canvas {
         }
     }
 
-    // Method to take a snapshot of the canvas
+    /**
+     * Method to take a snapshot of the canvas
+     */
     public void csnapshot() {
         setOnMousePressed(this::startSnapshot);
         setOnMouseDragged(null);
         setOnMouseReleased(this::stopSnapshot);
     }
 
-    // Method to start taking a snapshot of the canvas
+    /**
+     * Starts taking a snapshot of the canvas when the mouse is pressed.
+     * @param event The MouseEvent triggering the start of taking a snapshot.
+     */
     private void startSnapshot(MouseEvent event) {
         saveState();
         snapshotStartX = event.getX();
         snapshotStartY = event.getY();
     }
 
-    // Method to continue taking a snapshot of the canvas
+    /**
+     * Continues taking a snapshot of the canvas when the mouse is dragged.
+     * @param event The MouseEvent triggering the continuation of taking a snapshot.
+     */
     private void continueSnapshot(MouseEvent event) {
         double offsetX = event.getX();
         double offsetY = event.getY();
@@ -369,40 +503,61 @@ public class DrawingCanvas extends Canvas {
         gc.drawImage(snapshotImage, event.getX(), event.getY()); // Draw the selected area
     }
 
-    // Method to stop taking a snapshot of the canvas
+    /**
+     * Stops taking a snapshot of the canvas when the mouse is released.
+     * @param event The MouseEvent triggering the end of taking a snapshot.
+     */
     private void stopSnapshot(MouseEvent event) {
         continueSnapshot(event);
     }
 
-    // Method to set the line width for drawing
+
+    /**
+     * Sets the line width for drawing.
+     * @param newWidth The new line width to be set.
+     */
     public void setLwidth(int newWidth) {
         lwidth = newWidth; // Update the line width
         gc.setLineWidth(lwidth); // Set the new line width in the GraphicsContext
     }
 
-    // Method to get the current line width
+    /**
+     * Retrieves the current line width.
+     * @return The current line width.
+     */
     public int getLwidth() {
         return lwidth; // Return the current line width
     }
 
+    /**
+     * Retrieves the current drawing color.
+     * @return The current drawing color.
+     */
     public Color getColor() {
         return ccolor;
     }
 
-    // Method to set the current drawing color
+    /**
+     * Sets the current drawing color.
+     * @param color The color to be set for drawing.
+     */
     public void setColor(Color color) {
         this.ccolor = color;
         gc.setStroke(ccolor);
     }
 
-    // Method to save the current state of the canvas
+    /**
+     * Method to save the current state of the canvas
+     */
     public void saveState() {
         WritableImage snapshot = this.snapshot(null, null);
         undoStack.push(snapshot);
         redoStack.clear(); // Clear the redo stack when a new operation is performed.
     }
 
-    // Method to undo the last drawing action
+    /**
+     * Method to undo the last drawing action
+     */
     public void undoItem() {
         if (!undoStack.isEmpty()) {
             redoStack.push(this.snapshot(null, null));   // Give redo a snapshot of the canvas so redo can work
@@ -413,7 +568,9 @@ public class DrawingCanvas extends Canvas {
         }
     }
 
-    // Method to redo the last undone drawing action
+    /**
+     * Method to redo the last undone drawing action
+     */
     public void redoItem() {
         if (!redoStack.isEmpty()) {
             undoStack.push(this.snapshot(null, null));   //

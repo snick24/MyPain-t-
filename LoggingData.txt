@@ -45,3 +45,676 @@
 16/10/2023 22:54:49 null Text Was Selected
 16/10/2023 22:55:05 null was Auto-Saved
 16/10/2023 22:55:35 null was Auto-Saved
+16/10/2023 23:22:13 null was Auto-Saved
+17/10/2023 11:42:00 null Auto-Save Timer was toggled
+17/10/2023 11:42:06 null was Auto-Saved
+17/10/2023 11:44:36 null Auto-Save Timer was toggled
+17/10/2023 11:44:43 null was Auto-Saved
+17/10/2023 11:44:51 null Pencil Was Selected
+17/10/2023 11:45:02 null was rotated 12degrees
+30/10/2023 10:14:00 null Pencil Was Selected
+30/10/2023 10:14:05 null was Auto-Saved
+30/10/2023 10:14:33 null line width set as 3
+30/10/2023 10:14:33 null line width set as 5
+30/10/2023 10:14:33 null line width set as 7
+30/10/2023 10:14:33 null line width set as 8
+30/10/2023 10:14:33 null line width set as 9
+30/10/2023 10:14:33 null line width set as 11
+30/10/2023 10:14:33 null line width set as 13
+30/10/2023 10:14:33 null line width set as 14
+30/10/2023 10:14:33 null line width set as 16
+30/10/2023 10:14:33 null line width set as 17
+30/10/2023 10:14:33 null line width set as 18
+30/10/2023 10:14:33 null line width set as 19
+30/10/2023 10:14:33 null line width set as 19
+30/10/2023 10:14:33 null line width set as 20
+30/10/2023 10:14:33 null line width set as 20
+30/10/2023 10:14:33 null line width set as 21
+30/10/2023 10:14:33 null line width set as 21
+30/10/2023 10:14:33 null line width set as 21
+30/10/2023 10:14:33 null line width set as 22
+30/10/2023 10:14:33 null line width set as 22
+30/10/2023 10:14:33 null line width set as 22
+30/10/2023 10:14:33 null line width set as 23
+30/10/2023 10:14:33 null line width set as 23
+30/10/2023 10:14:35 null was Auto-Saved
+30/10/2023 10:15:05 null was Auto-Saved
+30/10/2023 10:15:35 null was Auto-Saved
+30/10/2023 10:16:05 null was Auto-Saved
+30/10/2023 10:16:35 null was Auto-Saved
+30/10/2023 10:17:05 null was Auto-Saved
+30/10/2023 10:17:35 null was Auto-Saved
+30/10/2023 10:18:05 null was Auto-Saved
+30/10/2023 10:18:35 null was Auto-Saved
+30/10/2023 10:19:05 null was Auto-Saved
+30/10/2023 10:19:35 null was Auto-Saved
+30/10/2023 10:20:05 null was Auto-Saved
+30/10/2023 10:20:35 null was Auto-Saved
+30/10/2023 10:21:05 null was Auto-Saved
+30/10/2023 10:21:35 null was Auto-Saved
+30/10/2023 10:22:05 null was Auto-Saved
+30/10/2023 10:22:35 null was Auto-Saved
+30/10/2023 10:43:44 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:45 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+30/10/2023 10:43:46 null was Auto-Saved
+07/11/2023 12:43:00 null Pencil Was Selected
+07/11/2023 12:43:03 null Square Was Selected
+07/11/2023 12:43:06 null was Auto-Saved
+07/11/2023 12:43:09 null Half-Circle Was Selected
+07/11/2023 12:43:18 null was rotated 240degrees
+07/11/2023 12:43:21 null was rotated 0degrees
+07/11/2023 12:43:23 null Straight Line Was Selected
+07/11/2023 12:43:29 null new color set as 0xe699b3ff
+07/11/2023 12:43:32 null was opened
+07/11/2023 12:43:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg was Auto-Saved
+07/11/2023 12:43:40 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg Text Was Selected
+07/11/2023 12:43:55 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg Text Was Selected
+07/11/2023 12:44:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg was Auto-Saved
+07/11/2023 12:44:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg line width set as 38
+07/11/2023 12:44:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg line width set as 40
+07/11/2023 12:44:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg line width set as 41
+07/11/2023 12:44:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg line width set as 42
+07/11/2023 12:44:13 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg Straight Line Was Selected
+07/11/2023 12:44:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg About was selected
+07/11/2023 12:44:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg was Auto-Saved
+15/11/2023 22:31:55 null Pencil Was Selected
+15/11/2023 22:31:57 null was Auto-Saved
+15/11/2023 22:32:00 null line width set as 30
+15/11/2023 22:32:00 null line width set as 31
+15/11/2023 22:32:00 null line width set as 32
+15/11/2023 22:32:00 null line width set as 33
+15/11/2023 22:32:00 null line width set as 33
+15/11/2023 22:32:00 null line width set as 34
+15/11/2023 22:32:00 null line width set as 34
+15/11/2023 22:32:00 null line width set as 35
+15/11/2023 22:32:00 null line width set as 35
+15/11/2023 22:32:00 null line width set as 37
+15/11/2023 22:32:00 null line width set as 38
+15/11/2023 22:32:00 null line width set as 40
+15/11/2023 22:32:00 null line width set as 41
+15/11/2023 22:32:00 null line width set as 43
+15/11/2023 22:32:00 null line width set as 45
+15/11/2023 22:32:00 null line width set as 46
+15/11/2023 22:32:00 null line width set as 48
+15/11/2023 22:32:00 null line width set as 49
+15/11/2023 22:32:00 null line width set as 50
+15/11/2023 22:32:03 null Rectangle Was Selected
+15/11/2023 22:32:13 null new color set as 0xff00ffff
+15/11/2023 22:32:18 null new color set as 0x800080ff
+15/11/2023 22:32:27 null was Auto-Saved
+15/11/2023 22:32:33 null new color set as 0xf38ff3ff
+15/11/2023 22:32:57 null was Auto-Saved
+15/11/2023 22:33:27 null was Auto-Saved
+15/11/2023 22:33:57 null was Auto-Saved
+15/11/2023 22:34:27 null was Auto-Saved
+27/11/2023 19:00:11 null was Auto-Saved
+27/11/2023 19:00:40 null was Auto-Saved
+27/11/2023 19:01:10 null was Auto-Saved
+27/11/2023 19:01:40 null was Auto-Saved
+27/11/2023 19:02:10 null was Auto-Saved
+27/11/2023 19:02:40 null was Auto-Saved
+27/11/2023 19:03:11 null was Auto-Saved
+27/11/2023 19:03:40 null was Auto-Saved
+27/11/2023 19:04:10 null was Auto-Saved
+27/11/2023 19:04:40 null was Auto-Saved
+27/11/2023 19:05:10 null was Auto-Saved
+27/11/2023 19:05:40 null was Auto-Saved
+27/11/2023 19:06:10 null was Auto-Saved
+27/11/2023 19:06:40 null was Auto-Saved
+27/11/2023 19:07:10 null was Auto-Saved
+27/11/2023 19:07:40 null was Auto-Saved
+27/11/2023 19:08:11 null was Auto-Saved
+27/11/2023 19:43:08 null was opened
+27/11/2023 19:43:20 C:\CS_250\Images\Turtle-brumation-pet-talk-1024x767.jpeg was rotated 240degrees
+27/11/2023 19:45:08 null was opened
+27/11/2023 19:45:36 null was Auto-Saved
+27/11/2023 19:45:40 null was opened
+27/11/2023 19:46:05 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg Pencil Was Selected
+27/11/2023 19:46:05 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg Pencil Was Selected
+27/11/2023 19:46:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:46:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:47:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:47:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:48:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:48:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:49:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:49:26 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg
+27/11/2023 19:49:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:50:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:50:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:50:42 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg
+27/11/2023 19:50:57 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg line width set as 30
+27/11/2023 19:51:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:51:24 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was saved
+27/11/2023 19:51:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:51:46 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was opened
+27/11/2023 19:51:54 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A fourth bowl of a variety of Crackers.png was saved
+27/11/2023 19:52:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A fourth bowl of a variety of Crackers.png was Auto-Saved
+27/11/2023 19:52:14 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A fourth bowl of a variety of Crackers.png
+27/11/2023 19:52:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A fourth bowl of a variety of Crackers.png was Auto-Saved
+27/11/2023 19:53:06 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A fourth bowl of a variety of Crackers.png was Auto-Saved
+27/11/2023 19:53:49 null was opened
+27/11/2023 19:53:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A third bowl of crackers.png Pencil Was Selected
+27/11/2023 19:54:17 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A third bowl of crackers.png was Auto-Saved
+27/11/2023 19:54:47 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A third bowl of crackers.png was Auto-Saved
+27/11/2023 19:54:50 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A third bowl of crackers.png line width set as 45
+27/11/2023 19:54:56 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A third bowl of crackers.png was saved
+27/11/2023 19:55:17 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A third bowl of crackers.png was Auto-Saved
+27/11/2023 19:55:29 null was opened
+27/11/2023 19:55:36 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg
+27/11/2023 19:55:49 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg Pencil Was Selected
+27/11/2023 19:55:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg line width set as 21
+27/11/2023 19:55:57 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:56:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:56:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was saved
+27/11/2023 19:56:56 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was opened
+27/11/2023 19:56:57 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:57:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:57:59 null was opened
+27/11/2023 19:58:07 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg Pencil Was Selected
+27/11/2023 19:58:07 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg line width set as 19
+27/11/2023 19:58:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 19:58:38 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was opened
+27/11/2023 19:58:44 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Pencil Was Selected
+27/11/2023 19:58:57 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png was Auto-Saved
+27/11/2023 19:59:10 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was undone
+27/11/2023 19:59:12 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was undone
+27/11/2023 19:59:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png was saved
+27/11/2023 19:59:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png was Auto-Saved
+27/11/2023 19:59:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was undone
+27/11/2023 19:59:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was undone
+27/11/2023 19:59:35 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was redone
+27/11/2023 19:59:37 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was undone
+27/11/2023 19:59:39 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was undone
+27/11/2023 19:59:42 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was redone
+27/11/2023 19:59:44 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\Yeah.png Action was redone
+27/11/2023 19:59:59 null was opened
+27/11/2023 20:00:21 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg
+27/11/2023 20:00:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 20:00:57 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\I will Cry if this doesnt work.jpg was Auto-Saved
+27/11/2023 20:01:45 null was opened
+27/11/2023 20:01:52 null was Auto-Saved
+27/11/2023 20:01:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Pencil Was Selected
+27/11/2023 20:02:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Action was undone
+27/11/2023 20:02:05 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Text Was Selected
+27/11/2023 20:02:08 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Rectangle Was Selected
+27/11/2023 20:02:14 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png was rotated 180degrees
+27/11/2023 20:02:17 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Straight Line Was Selected
+27/11/2023 20:02:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Eraser Was Selected
+27/11/2023 20:02:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png was Auto-Saved
+27/11/2023 20:02:46 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png canvas was cleared
+27/11/2023 20:02:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png was Auto-Saved
+27/11/2023 20:03:12 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Ellipse was selected
+27/11/2023 20:03:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png was Auto-Saved
+27/11/2023 20:03:25 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png Circle Was Selected
+27/11/2023 20:03:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png was Auto-Saved
+27/11/2023 20:04:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\dd.png was Auto-Saved
+27/11/2023 20:05:36 null was opened
+27/11/2023 20:06:10 null was opened
+27/11/2023 20:06:18 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\A bowl With Variety of Crackersv2.jpg
+27/11/2023 20:07:01 null was opened
+27/11/2023 20:07:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Pencil Was Selected
+27/11/2023 20:07:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:07:35 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was opened
+27/11/2023 20:07:57 null was Auto-Saved
+27/11/2023 20:08:53 null was Auto-Saved
+27/11/2023 20:16:05 null Ellipse was selected
+27/11/2023 20:16:33 null was Auto-Saved
+27/11/2023 20:17:03 null was Auto-Saved
+27/11/2023 20:17:33 null was Auto-Saved
+27/11/2023 20:18:21 null was opened
+27/11/2023 20:18:32 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Pencil Was Selected
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 2
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:18:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:18:49 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:19:10 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was saved
+27/11/2023 20:19:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:19:30 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 23
+27/11/2023 20:19:31 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 23
+27/11/2023 20:19:39 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Action was undone
+27/11/2023 20:19:42 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Action was redone
+27/11/2023 20:19:48 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:19:54 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0x0000ffff
+27/11/2023 20:20:02 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Eraser Was Selected
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:20:03 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:20:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:20:10 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:20:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:20:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Pointer Was Selected
+27/11/2023 20:20:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Straight Line Was Selected
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:34 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:20:41 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0x4d4d4dff
+27/11/2023 20:20:45 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Text Was Selected
+27/11/2023 20:20:48 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:21:05 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Pointer Was Selected
+27/11/2023 20:21:07 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Square Was Selected
+27/11/2023 20:21:13 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0x00ffffff
+27/11/2023 20:21:17 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:21:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:21:27 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Circle Was Selected
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:21:29 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:21:32 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:21:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 40
+27/11/2023 20:21:38 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0xe64d4dff
+27/11/2023 20:21:47 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Rectangle Was Selected
+27/11/2023 20:21:48 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:21:54 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:22:01 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0xb3801aff
+27/11/2023 20:22:04 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Half-Circle Was Selected
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 7
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 8
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 25
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 26
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 29
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 29
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 30
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 32
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 32
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 32
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 33
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 34
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 34
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 35
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 35
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 36
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 36
+27/11/2023 20:22:11 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 37
+27/11/2023 20:22:14 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0x000000ff
+27/11/2023 20:22:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Ellipse was selected
+27/11/2023 20:22:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 36
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 35
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 34
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 33
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 29
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 28
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 28
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 26
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 24
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 24
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 24
+27/11/2023 20:22:22 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 23
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 23
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 15
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:22:23 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:22:24 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:22:24 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:22:24 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 10
+27/11/2023 20:22:24 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:22:32 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png new color set as 0x1a3399ff
+27/11/2023 20:22:36 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 34
+27/11/2023 20:22:46 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was rotated 35degrees
+27/11/2023 20:22:48 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:22:51 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was rotated 180degrees
+27/11/2023 20:22:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was rotated 360degrees
+27/11/2023 20:23:15 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png
+27/11/2023 20:23:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:23:42 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was opened
+27/11/2023 20:23:48 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:24:12 null canvas was cleared
+27/11/2023 20:24:18 null was Auto-Saved
+27/11/2023 20:26:18 null was Auto-Saved
+27/11/2023 20:26:48 null was Auto-Saved
+27/11/2023 20:27:09 null was opened
+27/11/2023 20:27:15 saved as C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\ThisDefWorks.png
+27/11/2023 20:27:18 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\ThisDefWorks.png was Auto-Saved
+27/11/2023 20:27:48 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\ThisDefWorks.png was Auto-Saved
+27/11/2023 20:28:41 null was opened
+27/11/2023 20:28:51 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Pencil Was Selected
+27/11/2023 20:29:09 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:29:33 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was saved
+27/11/2023 20:29:39 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:29:51 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Eraser Was Selected
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 2
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 2
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 2
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 3
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:29:52 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 4
+27/11/2023 20:29:53 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 5
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 6
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 9
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 18
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 22
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 23
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 25
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 26
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 27
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 29
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 30
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 33
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 34
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 35
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 35
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 36
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 37
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 37
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 38
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 39
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 39
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 40
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 40
+27/11/2023 20:29:58 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 41
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 41
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 42
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 42
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 43
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 43
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 44
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 44
+27/11/2023 20:29:59 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 45
+27/11/2023 20:30:07 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Pointer Was Selected
+27/11/2023 20:30:08 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png was Auto-Saved
+27/11/2023 20:30:16 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png Straight Line Was Selected
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 43
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 41
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 39
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 37
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 33
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 31
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 25
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 24
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 21
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 20
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 19
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 17
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 16
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 14
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 13
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 12
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line width set as 11
+27/11/2023 20:30:20 C:\Users\wayne\Pictures\Camera Roll\Saved Pictures\VidExample.png line wid27/11/2023 20:34:37 null was opened
